@@ -66,9 +66,9 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estivensh4&repo=aws-kmp&theme=onedark" />
 </a>  
 
-<a href="https://github.com/estivensh4/VideoPlayerKMP">
+<a href="https://github.com/estivensh4/kaptureX">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estivensh4&repo=VideoPlayerKMP&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estivensh4&repo=kaptureX&theme=onedark" />
 </a>  
 
 ----------------------------------------------------------------------
