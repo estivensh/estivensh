@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Android+Developer;I'm+a+iOS+Developer;Passionate+about+cross-platform+kotlin" /></a>
 </p>
 
-   <a href="https://www.linkedin.com/in/estivensh4" target="_blank">
+   <a href="https://www.linkedin.com/in/estivensh" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
    <a href="https://stackoverflow.com/users/22601141/estiven-s%c3%a1nchez-herrera" target="_blank">
@@ -41,10 +41,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estiven Github Stats" src="https://github-readme-stats.vercel.app/api?username=estivensh4&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estiven Github Stats" src="https://github-readme-stats.vercel.app/api?username=estivensh&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estivensh4&show_icons=true&locale=en&layout=compact&theme=algolia" alt="estivensh4" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estivensh&show_icons=true&locale=en&layout=compact&theme=algolia" alt="estivensh" height="192px"/>
   <br/>
   </p>
 </details>
@@ -53,7 +53,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/estivensh4"><img alt="Estiven Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=estivensh4&custom_title=Estiven%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/estivensh"><img alt="Estiven Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=estivensh&custom_title=Estiven%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -61,14 +61,14 @@
 <br/>
 
 ## Popular Projects
-<a href="https://github.com/estivensh4/aws-kmp">
+<a href="https://github.com/estivensh/aws-kmp">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estivensh4&repo=aws-kmp&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estivensh&repo=aws-kmp&theme=onedark" />
 </a>  
 
-<a href="https://github.com/estivensh4/kaptureX">
+<a href="https://github.com/estivensh/kaptureX">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estivensh4&repo=kaptureX&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estivensh&repo=kaptureX&theme=onedark" />
 </a>  
 
 ----------------------------------------------------------------------
