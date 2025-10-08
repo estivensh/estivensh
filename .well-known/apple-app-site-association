@@ -1,5 +1,8 @@
 {
-  "applinks": {},
+  "applinks": {
+    "apps": [],
+    "details": []
+  },
   "webcredentials": {
     "apps": ["NLPKZ9K83H.com.estivensh.app"]
   }
